@@ -5,9 +5,7 @@ A complete Solana token launchpad application that allows users to create custom
 IMPORTANT:- Token creation require small amount of SOL to pay solana network fees (i.e gas fee). Please ensure wallet has suffecient SOL before proceeding. 
 **(Devnet SOL for testing)**
 
-## Deployment Linnk:-
 
-https://solana-launchpad-lac.vercel.app
 
 ## Features
 
