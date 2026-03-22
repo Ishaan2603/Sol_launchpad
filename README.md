@@ -1,4 +1,4 @@
-# Solana Token Launchpad
+# Solana__Token__Launchpad
 
 A complete Solana token launchpad application that allows users to create custom tokens with metadata and mint them to their wallet.
 
