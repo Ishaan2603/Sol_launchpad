@@ -95,4 +95,4 @@ The following wallets are supported:
 
 - [Solana Documentation](https://docs.solana.com/)
 - [SPL Token Documentation](https://spl.solana.com/token)
-- [Solana Wallet Adapter](https://github.com/solana-labs/wallet-adapter)
+- [Solana Wallet Adapter](https://github.com/solana-labs/wallet-adapter).
